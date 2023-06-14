@@ -1,6 +1,4 @@
-# TrainDatabase
-
-Hiya, This is simply a readme file that will go over all of the functionality of all of our included files
+Hiya Ed, This is simply a readme file that will go over all of the functionality of all of our included files
 Included with this file youll find all of the associated files, but since they are so large you probably wont want to do everything. 
 Thus we have this tutorial on what to look for and how to use the interface.
 
@@ -43,3 +41,4 @@ Mechanic option 3) - Mechanic ID: Charlie, Password : Charles - Select any of th
                     2) Just the selection works 
                     3) Similarly just the selection itself works
 Thank you again for using our first ever instance of Thomas3000 - The train station database
+
