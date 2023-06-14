@@ -5,6 +5,7 @@ Included with this file youll find all of the associated files, but since they a
 Thus we have this tutorial on what to look for and how to use the interface.
 
 !!!!!Firt Of all the database is called Train_Boys we were unable to rename it but hopefully the name is easy enough to find.!!!! 
+This Database was designed and created by John Glover and Philip Maphey.
 
 1) All of the SQL data are within the DDL, DML, and ImportedData files, these files include both
 implemented and non implemented queries. 
